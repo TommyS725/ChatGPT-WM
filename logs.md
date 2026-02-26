@@ -11,3 +11,8 @@ setup changes
    ```
 4. change file path to add "../results/" and "../figures/"
    `File Not Found Error'`
+
+modification
+
+1. add aggregate_results.ipynb to aggregate the results from the 3 runs of deepseek-chat-v3 into one file for easier analysis and plotting
+2. modify analysis_across_exps.ipynb for compare model performance to include the new deepseek-chat-v3 results and compare the performance with and without distractor in the n-back task
